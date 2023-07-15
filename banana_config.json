@@ -1,0 +1,11 @@
+{
+    "name": "potas-whisper-largev2",
+    "category": "",
+    "example_input": {
+        "input": "<MP3_Base64_encoded>"
+    },
+    "example_output": {
+        "text":"That's one small step for man, one giant leap for mankind."
+    },
+    "version": "1"
+}
